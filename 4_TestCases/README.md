@@ -11,6 +11,6 @@
 |:--:|:--:|:--:|:--:|:--:|
 |1|Power ON Wiper system|Long press button|Power ON RED LED||
 |2|Power OFF Wiper system|Long press button|Power OFF RED LED||
-|3|Glow LEDs alternatively with slow speed|Press button once|Glow LEDs alternatively with slow speed||
-|4|Glow LEDs alternatively with medium speed|Press button twice|Glow LEDs alternatively with medium speed||
-|5|Glow LEDs alternatively with high speed|Press button thrice|Glow LEDs alternatively with high speed||
+|3|Move wiper arm with slow speed|Press button once|Glow LEDs alternatively with slow speed||
+|4|Move wiper arm with medium speed|Press button twice|Glow LEDs alternatively with medium speed||
+|5|Move wiper arm with high speed|Press button thrice|Glow LEDs alternatively with high speed||
